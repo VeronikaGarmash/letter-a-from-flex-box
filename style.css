@@ -1,1 +1,21 @@
+.row{
+    width: 400px;
+    display: flex;
+}
 
+.kids{
+    height: 100px;
+    width: 100px;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.between{
+    justify-content: space-between;
+}
